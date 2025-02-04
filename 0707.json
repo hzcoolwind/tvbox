@@ -27,6 +27,15 @@
     {
       "url": "https://hzcoolwind.dynv6.net:55678/tvbox/my.json",
       "name": "小雅"
+	},
+    {
+      "url": "http://ok321.top/tv",
+      "name": "OK内部"
+	},
+    {
+      "url": "http://ok321.top/ok",
+      "name": "OK外部"
 	}
+
   ]
 }
